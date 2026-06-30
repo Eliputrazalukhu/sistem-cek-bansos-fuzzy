@@ -1,5 +1,8 @@
 # Sistem Cek Bansos Menggunakan Metode Logika Fuzzy Mamdani
 
+silahkan klik penjelasan apk 
+https://youtu.be/kSgFV4D3pJk?si=dBWBQGoDeD7kvdSM
+
 ## Deskripsi
 
 Sistem Cek Bansos Menggunakan Metode Logika Fuzzy Mamdani merupakan aplikasi berbasis web yang digunakan untuk membantu proses penentuan kelayakan calon penerima bantuan sosial (Bansos). Sistem ini dibangun menggunakan PHP Native, MySQL, Bootstrap 5, HTML, CSS, dan JavaScript.
